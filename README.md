@@ -2,6 +2,8 @@
 
 This project is a frontend application that displays an analytics dashboard for a fictional music streaming service called "Streamify." The dashboard presents key metrics and data visualizations, allowing the service's management team to gain insights into user activity, revenue, and content performance.
 
+#### Link to the live project: https://streamify-swart.vercel.app
+
 ## Features
 
 ### Core Features
